@@ -36,14 +36,14 @@ Building AI products, OCR pipelines, Agentic RAG, and IDE agents, performance, a
 ---
 
 ## 📊 GitHub Stats
-![Heng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devheng&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devheng&layout=compact&theme=tokyonight)
+![Heng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hangzoong&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hangzoon&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Email](https://img.shields.io/badge/Email-heng@example.com-red?logo=gmail&logoColor=white)](mailto:heng@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/nattapong-thaicharoen-2251b8248/)  
+[![Email](https://img.shields.io/badge/Email-mailbox.guhang@gmail.com-red?logo=gmail&logoColor=white)](mailto:mailbox.guhang@gmail.com)  
 
 ---
 ⭐️ _“AI is the new electricity ⚡ — shaping the future, one line of code at a time.”_
